@@ -2,7 +2,7 @@
 
 ## sobre o site 
 
-Este repositório é um testa
+Este repositório é um teste
 
 ## autores  
 
